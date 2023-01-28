@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Seminar1 {
     public static void main(String[] args) {
         ex4();
     }
